@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+.wrapper {
+  width: 350px;
+  margin: 30px auto;
+  border: 1px solid #ddd;
+}
+
+.buttons {
+  width: 350px;
+  margin: 10px auto;
+}
+
+.wrapper h3 {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  color: #989595;
+  font-weight: 100;
+  font-family: arial;
+}
+
+.wrapper p {
+  color: #989595;
+  line-height: 22px;
+  margin: 0 0 20px;
+}
+
+.wrapper h3 span {
+  color: #F35A05;
+  font-weight: 600
+}
+
+.progress {
+  background-color: #fff;
+  border-radius: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.progress-bar {
+  background-color: #F35A05;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.wrap-holder {
+  padding: 0 40px 10px 30px;
+}
+
+h5 {
+  color: #337ab7;
+  font-style: italic;
+  font-size: 14px;
+}
+
+input#amount {
+  width: 154px;
+}
